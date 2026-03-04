@@ -1,8 +1,5 @@
-student = {
-    "name": "SUSHMA",
-    "age": 20,
-    "grade": "A"
-}
+#24331A05G8
+student = {"name": "SUSHMA", "age": 20, "grade": "A"}
 print("Keys:", student.keys())
 print("Values:", student.values())
 print("Items:", student.items())
